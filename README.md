@@ -61,11 +61,7 @@ Layer-1 constructed-task deltas (volatility, diff energy, spectral entropy; 8-da
 
 \* For CATS the cross-attention entry is absolute accuracy, because its learnable queries start without per-instance input information.
 
-## Code and results
 
-This repository will hold the code and the per-run result files behind the tables and figures of the paper:
-temporal probing of PatchTST, iTransformer, CATS, PatchTST-NoAttn, Informer, and ModernTCN, activation patching,
-attention-free training, and component knockout.
 
 ## Citation
 
